@@ -1,4 +1,4 @@
-# gists
+# Gists
 
 <div align="center">
 
