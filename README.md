@@ -12,6 +12,10 @@
 
 > Repository for Managing Org Gists
 
+
+## Contents
+
+[Students Project Repository Management Analysis Report](gists/Students%20Project%20Repository%20Management%20Analysis%20Report.md)
 ## License
 
 This project is licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](LICENSE).
