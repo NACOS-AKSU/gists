@@ -18,6 +18,8 @@
 
 [Students Project Repository Management Analysis Report](gists/Students%20Project%20Repository%20Management%20Analysis%20Report.md)
 
+[BIT-24 Class Schedule](gists/BIT-24%20Class%20Schedule.md)
+
 <br>
 <br>
 
