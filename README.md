@@ -10,7 +10,7 @@
             This NACOS AKSU is operated under license from NACOS NIGERIA.
 </p>
 
-> Repository for Managing Org Gists
+> Repository for Managing NACOS-AKSU Gists
 
 <br>
 
