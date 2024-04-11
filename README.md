@@ -20,6 +20,8 @@
 
 [BIT-24 Class Schedule](gists/BIT-24%20Class%20Schedule.md)
 
+[Student Profile Repository Platform](Student%20Profile%20Repository%20Platform.md)
+
 <br>
 <br>
 
